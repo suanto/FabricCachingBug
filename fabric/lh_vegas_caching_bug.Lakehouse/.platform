@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "lh_vegas_caching_bug"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "87b2cd74-eaee-9244-4a76-6c327ce14881"
+  }
+}
