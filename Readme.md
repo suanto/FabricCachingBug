@@ -27,4 +27,6 @@ Steps to reproduce:
 3. Expected result: The read file should contain equal amount of rows than the file written
 4: Actual result: The file contains more rows the written. Usually 1-17 rows more. All extra rows are duplicates and contain the CSV-file header.
 
+## Example error log when reading the file returns more rows than was written
+
 ![](/assets/error_log_example.png)
